@@ -1,0 +1,9 @@
+numpy
+pandas
+django==3.2.10
+pymysql
+mysqlclient
+opencv-python
+tensorflow==2.15.0
+pillow
+
